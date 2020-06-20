@@ -1,0 +1,2 @@
+# ynote
+daily learn
